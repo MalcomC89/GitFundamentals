@@ -10,7 +10,7 @@ here is a growing collection of resources and helpful commands to know when work
 - [git push](./commands/PUSH.md)
 - [git pull](./Commands/PULL)
 - [git status](./Command/status.md)
-- [git clone documentation](https://git-scm/docs/git clone)
+- [git clone](./Commands.Clone.md)
 # externanl resources
 - [Markdown cheat sheet]([git clode documentation](https://git-scm/docs/git clone)
 - [Git Documentation](https://git-scm.com/docs)
